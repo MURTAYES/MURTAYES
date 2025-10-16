@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/file/d/1dIgy8BT3ZV8kPpqI57SjDhOALkV9mOYt/view?usp=drive_link)
+![Header](https://drive.google.com/uc?export=view&id=1dIgy8BT3ZV8kPpqI57SjDhOALkV9mOYt)
 <h1 align="center">Hi 👋, I'm Samnun Murtayes Jarif</h1>
 <h3 align="center">A lazy lad🙂</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
